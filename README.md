@@ -9,4 +9,5 @@ You can visit the following site to explore: https://www.mathblog.dk/tools/infix
 I/O Example:
 
 > 8 * 3 + 12 * (4 - 2)
+
   48
